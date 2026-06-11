@@ -2,7 +2,7 @@
 
 **Sr. Manager, AWS Agentic AI**
 
-I lead the AWS Plato Ingestion engineering team — we build scalable ingestion pipelines and document extraction services at AWS. I'm passionate about engineering excellence, growing high-performing teams, and using AI to fundamentally change how software teams operate.
+I lead the AWS RAG Ingestion team powering a suite of AWS AI products — Amazon Q Business, AWS Managed Knowledge Base, and Quick Suite. We build the scalable ingestion pipelines and document extraction infrastructure that makes enterprise knowledge retrieval possible at AWS scale. Beyond the engineering, I'm deeply passionate about two things: bringing the latest AI innovations to customers faster, and evolving teams toward an AI-first mindset — building high-performing engineering cultures where AI isn't just a tool, it's the way we work.
 
 ---
 
