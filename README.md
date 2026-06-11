@@ -1,6 +1,6 @@
 # Hey, I'm Sony Genu 👋
 
-**Sr. Manager, Software Development @ Amazon**
+**Sr. Manager, AWS Agentic AI**
 
 I lead the AWS Plato Ingestion engineering team — we build scalable ingestion pipelines and document extraction services at AWS. I'm passionate about engineering excellence, growing high-performing teams, and using AI to fundamentally change how software teams operate.
 
